@@ -2,3 +2,5 @@ Go to the gym
 do math homework 
 do some coding 
 do laundry
+go to bank 
+do groceries
